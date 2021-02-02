@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chicle&family=Open+Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #f7ede2ff;
+}
+
+h1{
+ font-family: 'Chicle', cursive;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+/* --linen: #f7ede2ff;
+--medium-carmine: #ba4336ff;
+--wine: #632b30ff;
+--brink-pink: #fe5282ff; */
