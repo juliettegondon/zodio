@@ -13,20 +13,14 @@ class Aztro extends Component {
         fetch(URL, {
             method: 'POST'
         }).then(response => response.json())
+/*          .then(json => json.toLowerCase()) */
         .then(json => { this.setState({json}); });
     }
 
     render() {
         return (
           <div>
-              Current Date: {this.state.json.current_date} <br />
-              Compatibility: {this.state.json.compatibility} <br />
-              Lucky Number: {this.state.json.lucky_number} <br />
-              Lucky Time: {this.state.json.lucky_time} <br />
-              Color: {this.state.json.color} <br />
-              Date Range: {this.state.json.date_range} <br />
-              Mood: {this.state.json.mood} <br />
-              Description: {this.state.json.description} <br />
+              <p>{this.state.json.current_date} <br /></p>
           </div>
         );
     }

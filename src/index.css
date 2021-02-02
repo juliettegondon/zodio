@@ -3,6 +3,7 @@
 
 * {
   box-sizing: border-box;
+  color:#431D20;
 }
 
 html,
@@ -22,9 +23,12 @@ h1{
 h2{
   font-family: 'Open Sans', sans-serif;
 }
+p{
+  font-family: 'Open Sans', sans-serif;
+}
 
 
 /* --linen: #f7ede2ff;
 --medium-carmine: #ba4336ff;
---wine: #632b30ff;
+--dark sienna: #431D20;
 --brink-pink: #fe5282ff; */
