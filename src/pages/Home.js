@@ -2,6 +2,7 @@ import React from "react";
 import Aztro from "../components/Aztro"
 import Container from "../components/Container";
 import Header from "../components/Header"
+import CardColumn from "../components/FlipCard"
 /* signs */
 import Aquarius from "../components/Signs/Aquarius";
 import Pisces from "../components/Signs/Pisces";
@@ -24,13 +25,13 @@ function Home() {
 
        <Header/>
       <Container style={{ marginTop: 30 }}>
-           <h1>today's horoscope</h1>
            <Aztro />
       </Container>
      
      
      
       <Container className="allSigns">
+        <CardColumn />
     <Aquarius />
     <Pisces />
     <Aries />

@@ -7,7 +7,7 @@ function Header() {
       <div>
           <Container fluid="md">
           <h1 className="zodio">ZODIO</h1>
-          <h2 className="tagline">daily horoscopes from a libra gemini gemini</h2>
+          <h2 className="tagline">daily horoscopes from a <a href="https://github.com/juliettegondon">libra gemini gemini</a></h2>
           </Container>
       </div>
     );

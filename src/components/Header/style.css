@@ -1,10 +1,17 @@
 .zodio {
     font-size: 800%;
     margin-top: 10;
+    text-transform: uppercase;
+    text-align: center;
   }
 
 .tagline{
-     color: #ba4336ff ;
+   font-family: 'Chicle', cursive;
+   text-align: center;
   }
   
+a{
+  color: #431D20!important;
+  text-decoration: none!important;
+}
   

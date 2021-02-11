@@ -20,7 +20,7 @@ class Aquarius extends Component {
     render() {
         return (
           <div>
-            <h1>aquarius</h1>
+            <h1>Aquarius</h1>
               compatibility: {this.state.json.compatibility} <br />
               lucky number: {this.state.json.lucky_number} <br />
               lucky time: {this.state.json.lucky_time} <br />

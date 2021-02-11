@@ -3,7 +3,7 @@
 
 * {
   box-sizing: border-box;
-  color:#431D20;
+  text-transform: lowercase; 
 }
 
 html,
@@ -14,7 +14,7 @@ div[data-reactroot] {
   height: 100%;
   padding: 0;
   margin: 0;
-  background-color: #f7ede2ff;
+  background-color: #252627;
 }
 
 h1{

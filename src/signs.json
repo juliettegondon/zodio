@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "aquarius",
+      "image":
+        "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "date": "jan 20 - feb 18",
+      "element": "air"
+    },
+    {
+        "id": 2,
+        "name": "pisces",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "feb 19 - mar 20",
+        "element": "water"
+      },
+      {
+        "id": 3,
+        "name": "aries",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "mar 21 - apr 20",
+        "element": "fire"
+      },
+      {
+        "id": 4,
+        "name": "taurus",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "apr 21 - may 20",
+        "element": "earth"
+      },
+      {
+        "id": 5,
+        "name": "gemini",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "may 21 - jun 21",
+        "element": "air"
+      },
+      {
+        "id": 6,
+        "name": "cancer",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": " jun 22 - jul 22",
+        "element": "water"
+      },
+      {
+        "id": 7,
+        "name": "leo",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "jul 23 - aug 22",
+        "element": "fire"
+      },
+      {
+        "id": 8,
+        "name": "virgo",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "aug 23 - sep 22",
+        "element": "earth"
+      },
+      {
+        "id": 9,
+        "name": "libra",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "sep 23 - oct 22",
+        "element": "air"
+      },
+      {
+        "id": 10,
+        "name": "scorpio",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "oct 23 - nov 22",
+        "element": "water"
+      },
+      {
+        "id": 11,
+        "name": "sagittarius",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "nov 23 - dec 21",
+        "element": "fire"
+      },
+      {
+        "id": 12,
+        "name": "capricorn",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "date": "dec 22 - jan 19",
+        "element": "earth"
+      }
+]

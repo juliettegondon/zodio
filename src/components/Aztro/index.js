@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import './style.css'
 class Aztro extends Component {
     constructor(props){
         super(props);
@@ -13,14 +13,27 @@ class Aztro extends Component {
         fetch(URL, {
             method: 'POST'
         }).then(response => response.json())
-/*          .then(json => json.toLowerCase()) */
         .then(json => { this.setState({json}); });
     }
 
+/*     componentDidUpdate(){
+        let Date = this.state.json.current_date;
+        if(Date || typeof Date == "string") {
+            console.log("Valid");
+            let newDate = Date.toLowerCase();
+            console.log(newDate);
+         }
+        else {
+            console.log("!not a string");
+         }
+    }
+ */
+
     render() {
         return (
-          <div>
-              <p>{this.state.json.current_date} <br /></p>
+          <div className="today">
+              <h1>today's date</h1>
+              <p className>{this.state.json.current_date} <br /></p>
           </div>
         );
     }

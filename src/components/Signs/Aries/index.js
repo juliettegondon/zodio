@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 
+
 class Aries extends Component {
     constructor(props){
         super(props);
@@ -18,6 +19,7 @@ class Aries extends Component {
     }
 
     render() {
+      
         return (
           <div>
             <h1>Aries</h1>
