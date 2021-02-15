@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './style.css'
 import ReactCardFlip from 'react-card-flip';
-import CardInfo from '../CardInfo';
+
 
 class FlipCard extends Component {
     constructor() {
@@ -21,18 +21,19 @@ class FlipCard extends Component {
 
       
       return (
+        <div>
         <ReactCardFlip isFlipped={this.state.isFlipped} flipDirection="horizontal">
          <div className="card col-sm-12 col-md-4" onClick={this.handleClick}>
-            <h1><CardInfo /></h1>
+            <h1>{FlipCard.Title}!!!</h1>
           </div>
-
-
-
           <div className="card col-sm-12 col-md-4" onClick={this.handleClick}>
+            <h1>Sign Name</h1>
           </div>
-
-          
         </ReactCardFlip>
+    
+        </div>
+
+        
       )
     }
   }

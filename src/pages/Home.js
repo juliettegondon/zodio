@@ -2,7 +2,7 @@ import React from "react";
 import Aztro from "../components/Aztro"
 import Container from "../components/Container";
 import Header from "../components/Header"
-import CardColumn from "../components/FlipCard"
+/* import SearchForm from "../components/SearchForm" */
 /* signs */
 import Aquarius from "../components/Signs/Aquarius";
 import Pisces from "../components/Signs/Pisces";
@@ -31,7 +31,6 @@ function Home() {
      
      
       <Container className="allSigns">
-        <CardColumn />
     <Aquarius />
     <Pisces />
     <Aries />

@@ -19,6 +19,7 @@ class Aquarius extends Component {
 
     render() {
         return (
+          
           <div>
             <h1>Aquarius</h1>
               compatibility: {this.state.json.compatibility} <br />
