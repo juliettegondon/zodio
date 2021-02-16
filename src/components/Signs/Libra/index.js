@@ -28,6 +28,7 @@ class Libra extends Component {
               date range: {this.state.json.date_range} <br />
               mood: {this.state.json.mood} <br />
               description: {this.state.json.description} <br />
+              <br />
           </div>
         );
     }

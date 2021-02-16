@@ -32,7 +32,7 @@ class Aztro extends Component {
     render() {
         return (
           <div className="today">
-              <h1>today's date</h1>
+              <h1>today's date:</h1>
               <p className>{this.state.json.current_date} <br /></p>
           </div>
         );
