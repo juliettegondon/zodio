@@ -7,13 +7,11 @@ function App() {
 
   
   return (
-    <Router>
-      <div>
+    <Router basename ={process.env.PUBLIC_URL}>
         <Wrapper>
           <Route exact path="/" component={Home} />
-          <Route exact path="/Home" component={Home} />
+          <Route path="/Home" component={Home} />
         </Wrapper>
-      </div>
     </Router>
   );
 }
