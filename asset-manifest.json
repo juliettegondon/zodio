@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/zodio/static/css/main.01c289a3.chunk.css",
-    "main.js": "/zodio/static/js/main.98d4c89d.chunk.js",
-    "main.js.map": "/zodio/static/js/main.98d4c89d.chunk.js.map",
+    "main.js": "/zodio/static/js/main.5f97dacf.chunk.js",
+    "main.js.map": "/zodio/static/js/main.5f97dacf.chunk.js.map",
     "runtime-main.js": "/zodio/static/js/runtime-main.fc3fea20.js",
     "runtime-main.js.map": "/zodio/static/js/runtime-main.fc3fea20.js.map",
     "static/css/2.150d169a.chunk.css": "/zodio/static/css/2.150d169a.chunk.css",
-    "static/js/2.29847c6e.chunk.js": "/zodio/static/js/2.29847c6e.chunk.js",
-    "static/js/2.29847c6e.chunk.js.map": "/zodio/static/js/2.29847c6e.chunk.js.map",
+    "static/js/2.097f96ab.chunk.js": "/zodio/static/js/2.097f96ab.chunk.js",
+    "static/js/2.097f96ab.chunk.js.map": "/zodio/static/js/2.097f96ab.chunk.js.map",
     "index.html": "/zodio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/zodio/static/css/2.150d169a.chunk.css.map",
     "static/css/main.01c289a3.chunk.css.map": "/zodio/static/css/main.01c289a3.chunk.css.map",
-    "static/js/2.29847c6e.chunk.js.LICENSE.txt": "/zodio/static/js/2.29847c6e.chunk.js.LICENSE.txt"
+    "static/js/2.097f96ab.chunk.js.LICENSE.txt": "/zodio/static/js/2.097f96ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fc3fea20.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.29847c6e.chunk.js",
+    "static/js/2.097f96ab.chunk.js",
     "static/css/main.01c289a3.chunk.css",
-    "static/js/main.98d4c89d.chunk.js"
+    "static/js/main.5f97dacf.chunk.js"
   ]
 }
