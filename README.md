@@ -1,5 +1,8 @@
 # ZODIO
 
+If there was a Venn Diagram with "Programmers" in one circle, and "People who are deep into astrology" in the other... I think I may be the only person in the middle.
+
+CHECK IT OUT HERE! [https://juliettegondon.github.io/zodio/]
 This astrology centric React app uses the API
 [Aztro](https://aztro.readthedocs.io/en/latest/#) to show users their daily horoscope based on their sign.
 
